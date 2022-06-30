@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/Giut-ux/fdxyv2",
-  "repository": "https://github.com/Giut-ux/fdxyv2",
+  "website": "https://github.com/redws5/weds",
+  "repository": "https://github.com/redws5/weds",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
